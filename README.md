@@ -1,5 +1,4 @@
-# Tic Tac Toe
-# ============
+# Tic Tac Toe 
 
 This is a console based tic tac toe game in C.
 
