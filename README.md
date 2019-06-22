@@ -1,10 +1,10 @@
 # Tic Tac Toe
 # ============
 
-This game is a console based game in C.
+This is a console based tic tac toe game in C.
 
 How to play
 ========================
 
-use numbers from 1 to 9 to add your input.
+use numbers from 1 to 9 to play your chance in the game. 
 
