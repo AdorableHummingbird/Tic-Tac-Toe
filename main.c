@@ -2,7 +2,7 @@
 Tic - Tac - Toe console game written in C.
 License : MIT License
 Copyright : Piyush (c)
-Creation date : 6-22-19.
+Creation date : Jun-22-19.
 
 */
 
